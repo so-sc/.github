@@ -1,1 +1,1 @@
-# .github
+# Sahyadri Open Source Community
